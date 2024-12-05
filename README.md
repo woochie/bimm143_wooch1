@@ -8,6 +8,10 @@ Classwork for [BIMM143](https://github.com/woochie/bimm143_wooch1/blob/main/READ
 
 
 
+[Class 8](https://github.com/woochie/bimm143_wooch1/tree/main/Class08)
+
+
+
 
 
 >>>>>>> fe45fd6528bd794fd57bc7b8ef31bc2a5b7b085f
