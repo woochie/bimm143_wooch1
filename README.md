@@ -8,7 +8,7 @@ Classwork for [BIMM143](https://github.com/woochie/bimm143_wooch1/blob/main/READ
 
 - Class 6 [**Why, when and how of writing your own R functions**](https://github.com/woochie/bimm143_wooch1/blob/main/class06/class06.md)
 
-- Class 7 [Introduction to machine learning for Bioinformatics 1](https://github.com/woochie/bimm143_wooch1/tree/main/class07) 
+- Class 7 [**Introduction to machine learning for Bioinformatics 1**](https://github.com/woochie/bimm143_wooch1/blob/main/class07/class07.md) 
 
 - Class 8 [Unsupervised learning mini-project](https://github.com/woochie/bimm143_wooch1/tree/main/Class08)
 
