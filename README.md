@@ -4,7 +4,7 @@ Hello!!  This is repo Classwork for BIMM143 F24 at UC San Diego
 =======
 Classwork for [BIMM143](https://github.com/woochie/bimm143_wooch1/blob/main/README.md) BIMM143 F24 at UCSD.
 
-[Class 5](https://github.com/woochie/bimm143_wooch1/tree/main/class05))
+[Class 5](https://github.com/woochie/bimm143_wooch1/tree/main/class05)
 
 [Class 6](https://github.com/woochie/bimm143_wooch1/tree/main/class06)
 
